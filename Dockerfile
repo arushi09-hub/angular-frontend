@@ -1,4 +1,4 @@
-# Compile and Build Angular Codebase
+
 
 # Base Image
 FROM node:12.18.1 as build
