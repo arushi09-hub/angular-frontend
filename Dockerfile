@@ -12,7 +12,7 @@ COPY ./ /usr/local/app/
 # Installing Dependencies
 RUN npm install
 
-# Generating Production Build
+# Generating Production build
 RUN npm run build
 
 
